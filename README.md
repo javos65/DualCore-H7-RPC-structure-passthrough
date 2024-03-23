@@ -5,7 +5,8 @@ ____
 
 ## About
 
-An example project for Dual Core H7 inter processor communication using RPC mechanism to pass data-structures back and forward.
+An example project for Dual Core H7 inter processor communication using RPC mechanism to pass data-structures back and forward.+
+Examples coming with the board focus on text passthrough, this example can pass any variable: int, float,text,bool, organized in a predefined C-structure.
 
 
 ### Wiring
@@ -16,6 +17,7 @@ ___
 
 ### Features:
 
+At least its stable ...
 
 ___
 
