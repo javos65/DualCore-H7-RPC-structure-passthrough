@@ -5,7 +5,7 @@ ____
 
 ## About
 
-An example project for Dual Core H7 inter processor communication using RPC mechanism
+An example project for Dual Core H7 inter processor communication using RPC mechanism to pass data-structures back and forward.
 
 
 ### Wiring
